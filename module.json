@@ -9,5 +9,6 @@
   "scripts": [
     "scripts/main.js"
   ],
-  "download": "https://github.com/AdamGorbert/smarter-equipment/archive/refs/tags/0.0.1.zip"
+  "download": "https://github.com/AdamGorbert/smarter-equipment/archive/refs/tags/0.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/AdamGorbert/smarter-equipment/0.0.1/module.json"
 }

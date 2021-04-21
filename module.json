@@ -1,0 +1,12 @@
+{
+  "name": "smarter-equipment",
+  "title": "Smarter Equipment",
+  "description": "A basic module designed to add some minor extra functionality to the inventory.",
+  "author": "Adam Gorbert",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.5.0",
+  "system": "dnd5e",
+  "scripts": [
+    "scripts/main.js"
+  ]
+}

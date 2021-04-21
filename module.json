@@ -8,5 +8,6 @@
   "system": "dnd5e",
   "scripts": [
     "scripts/main.js"
-  ]
+  ],
+  "download": "https://github.com/AdamGorbert/smarter-equipment/archive/refs/tags/0.0.1.zip"
 }
